@@ -10,3 +10,15 @@ edit database name, database username.
 database name=
 database username=
 ```
+
+# step 2
+
+```
+cmposer install
+```
+
+# step 3
+
+```
+npm install
+```
