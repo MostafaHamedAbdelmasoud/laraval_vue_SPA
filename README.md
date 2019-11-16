@@ -2,12 +2,11 @@
 it's a spa project  made with laravel, vue, and mysql bootstrap
 
 # step 1
-```console
+in .env file 
 
-in ! env file
+edit database name, database username.
 
-'''
-
-```{r, engine='bash', count_lines}
-wc -l en_US.twitter.txt 
+```
+database name=
+database username=
 ```
