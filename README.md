@@ -7,3 +7,7 @@ it's a spa project  made with laravel, vue, and mysql bootstrap
 in ! env file
 
 '''
+
+```{r, engine='bash', count_lines}
+wc -l en_US.twitter.txt 
+```
