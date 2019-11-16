@@ -22,3 +22,9 @@ cmposer install
 ```
 npm install
 ```
+
+# step 4
+
+```
+php artisan serve
+```
