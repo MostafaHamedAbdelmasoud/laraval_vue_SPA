@@ -28,3 +28,4 @@ npm install
 ```
 php artisan serve
 ```
+#### it will give you a link click ctr+click on it.
