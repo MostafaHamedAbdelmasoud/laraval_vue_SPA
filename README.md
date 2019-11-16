@@ -1,8 +1,32 @@
+## you must some reuirements for this project:
+
+### 1- php version 7.3.*
+
+if you don't have it
+
+check this website https://www.sitepoint.com/how-to-install-php-on-windows/
+
+### 2- xampp:
+
+https://www.apachefriends.org/download.html
+
+### 3- composer:
+
+https://getcomposer.org/download/
+
+### 4- node js:
+
+https://nodejs.org/en/download/
+
+
+if you install this or if you have this already then continue:
+
 # laraval_vue_SPA
 it's a spa project  made with laravel, vue, and mysql bootstrap
 
 # step 1
-in .env file 
+
+## in .env file 
 
 edit database name, database username.
 
